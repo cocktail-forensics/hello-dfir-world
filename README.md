@@ -1,3 +1,3 @@
 # Hello, DFIR World
 
-This is a repository for practicing basic Git commands.
+This is a repository to be used for practicing basic Git commands.
